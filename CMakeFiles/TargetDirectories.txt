@@ -1,0 +1,3 @@
+/home/projectz/libs/example_serial/untitled folder/CMakeFiles/rebuild_cache.dir
+/home/projectz/libs/example_serial/untitled folder/CMakeFiles/edit_cache.dir
+/home/projectz/libs/example_serial/untitled folder/CMakeFiles/test.dir

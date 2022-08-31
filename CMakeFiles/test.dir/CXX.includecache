@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/projectz/libs/example_serial/untitled folder/Exception.hpp
+iostream
+-
+sstream
+-
+stdexcept
+-
+string
+-
+
+/home/projectz/libs/example_serial/untitled folder/SerialPort.hpp
+string
+-
+fstream
+-
+sstream
+-
+vector
+-
+asm/ioctls.h
+-
+asm/termbits.h
+-
+Exception.hpp
+/home/projectz/libs/example_serial/untitled folder/Exception.hpp
+
+/home/projectz/libs/example_serial/untitled folder/main.cpp
+iostream
+-
+string
+-
+SerialPort.hpp
+/home/projectz/libs/example_serial/untitled folder/SerialPort.hpp
+
